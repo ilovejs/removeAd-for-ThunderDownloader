@@ -1,20 +1,19 @@
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////
-/////                                                                                                     /////
-/////    The purpose of this small tool is to eliminate violent and sexual content in Thunder software.   /////
-/////    It's your responsibility to decide whether to use it or not.                                     /////
-/////    This programe is only for educational purpose, since the source code is fully open.              /////
-/////                                                                                                     ///// 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////
+The purpose of this small tool is to eliminate violent and sexual content in Thunder software.   
+It's your responsibility to decide whether to use it or not.                                     
+This programe is only for educational purpose, since the source code is fully open.              
+/////////////////////////////////////////////////////////////////////////////////////////
 
 * This tool is only for Thunder Downloader user in China.
 If you don't have such software, please be careful.
 
 1. exit thunder programe
 2. double click removeAd.exe
-3. run thunder programe again, first time you will have to wait longer time, you can terminate the programe by taskman.
+3. run thunder programe again, first time you will have to wait longer time
+   you can terminate the programe by taskman.
 Later, it will run smoothly.
 
-------------------------------------------   For Chinese Reader:  -----------------------------------------
+------------------------------   For Chinese Reader:  --------------------------------------
 
 清除“迅雷7”广告步骤：
 1.退出迅雷
